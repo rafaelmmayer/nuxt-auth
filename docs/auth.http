@@ -1,0 +1,5 @@
+POST http://localhost:3000/api/auth
+
+### ME
+GET http://localhost:3000/api/auth/me
+Cookie: .cookie=[{"type":"id","value":"bdaa8e5c-a259-4dcf-a02b-8164631f6711"},{"type":"email","value":"rafa.mayer67@gmail.com"},{"type":"name","value":"Rafael Mayer"},{"type":"college","value":"PUC"}]; path=/; samesite=lax;
